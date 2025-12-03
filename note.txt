@@ -1,3 +1,2 @@
 First commit.
-Second commit on feature-1.
-Third commit on feature-1.
+Second commit.
